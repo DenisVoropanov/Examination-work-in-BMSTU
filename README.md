@@ -14,3 +14,6 @@
 <img width="234" alt="f" src="https://user-images.githubusercontent.com/78722676/183452690-c4f5ad97-a0ea-4511-930c-d3203a6a1411.png">
 <img width="234" alt="g" src="https://user-images.githubusercontent.com/78722676/183452693-97508cee-3be5-492d-96d3-efa4f1a53634.png">
 <img width="234" alt="h" src="https://user-images.githubusercontent.com/78722676/183452698-0ccb1d37-ce49-4858-90db-9e44ac4ee48e.png">
+
+## Лого:
+![20711587](https://user-images.githubusercontent.com/78722676/183457534-9799872d-9677-4718-98a2-94f1cd4a5708.png)
